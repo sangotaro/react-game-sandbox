@@ -300,10 +300,10 @@
     "@types/prop-types" "*"
     csstype "^3.0.2"
 
-"@types/three@0.125.3":
-  version "0.125.3"
-  resolved "https://registry.yarnpkg.com/@types/three/-/three-0.125.3.tgz#5d5c29acea66af42a3a32a13a9cc8e88e367d8a3"
-  integrity sha512-tUPMzKooKDvMOhqcNVUPwkt+JNnF8ASgWSsrLgleVd0SjLj4boJhteSsF9f6YDjye0mmUjO+BDMWW83F97ehXA==
+"@types/three@0.126.0":
+  version "0.126.0"
+  resolved "https://registry.yarnpkg.com/@types/three/-/three-0.126.0.tgz#58f80e13ab5f8084741e8a9d7e804b9a31039043"
+  integrity sha512-C7cFOWQpcGQAJ0PJSdU6ncZFn51fWKaV8o1Dz2fvikFRGWY8cI5/M/q5JHX7/TzCfMRadLP690Ksh8QvanSW8Q==
 
 "@typescript-eslint/eslint-plugin@4.15.2":
   version "4.15.2"
@@ -1848,10 +1848,10 @@ text-table@^0.2.0:
   resolved "https://registry.yarnpkg.com/text-table/-/text-table-0.2.0.tgz#7f5ee823ae805207c00af2df4a84ec3fcfa570b4"
   integrity sha1-f17oI66AUgfACvLfSoTsP8+lcLQ=
 
-three@0.126.0:
-  version "0.126.0"
-  resolved "https://registry.yarnpkg.com/three/-/three-0.126.0.tgz#924818341cd4441ef247e3cbf236f6160b90a216"
-  integrity sha512-/MecvboUefStCkUfXLImoJxthN+FoLPcEP7pz1r1Dd9i8BPGGuj+S1sOPRvW4Z+ViZjP2oWWm1inNC/MT52ybA==
+three@0.126.1:
+  version "0.126.1"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.126.1.tgz#cf4e4e52060fd952f6f0d5440cbd422c66bc4be7"
+  integrity sha512-eOEXnZeE1FDV0XgL1u08auIP13jxdN9LQBAEmlErYzMxtIIfuGIAZbijOyookALUhqVzVOx0Tywj6n192VM+nQ==
 
 tiny-emitter@^2.1.0:
   version "2.1.0"
